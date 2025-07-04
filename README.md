@@ -1,6 +1,6 @@
 # Predicting Active Membrane Dynamics with Fourier Neural Operators
 
-This project is a proof of principle for using machine learning to solve the coupled differential equations for an active mebrane. More detail can be found in my repository [here](https://github.com/aondoyima/active-membrane-dynamics)
+This project is a proof of principle for using machine learning to solve the coupled differential equations for an active mebrane. More detail can be found in my repository [here](https://github.com/aondoyima/active-membrane-dynamics).
 
 The model weights are adjusted by minimising the mean square error on the prediction from one simulation step to the next, so it is remarkable that the model shows good qualitative agreement with ground truth for a full run starting from the same intital condition.
 
