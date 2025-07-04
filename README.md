@@ -7,7 +7,7 @@ So far the model shows good qualitative agreement with ground truth, but it is l
 ## Example
 The model takes in physical parameters and initial conditions, and predicts the full spatiotemporal evolution of the system.
 
-Below is a comparison between the ground truth dynamics and the FNO prediction.
+Below is a comparison between the ground truth dynamics and the FNO prediction, starting from the same initial condition.
 
 <table>
   <tr>
@@ -17,5 +17,16 @@ Below is a comparison between the ground truth dynamics and the FNO prediction.
   <tr>
     <td><img src="example_figs/kym_pred_0.08.png" width="800"/></td>
     <td><img src="example_figs/kym_true_0.08.png" width="800"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Predicted</th>
+    <th>Ground Truth</th>
+  </tr>
+  <tr>
+    <td><img src="example_figs/kym_pred_0.43.png" width="800"/></td>
+    <td><img src="example_figs/kym_true_0.43.png" width="800"/></td>
   </tr>
 </table>
