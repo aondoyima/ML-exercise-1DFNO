@@ -5,8 +5,6 @@ This project is a proof of principle for using machine learning to solve the cou
 The model weights are adjusted by minimising the mean square error on the prediction from one simulation step to the next, so it is remarkable that the model shows good qualitative agreement with ground truth for a full run starting from the same intital condition.
 
 ## Example
-The model takes in physical parameters and initial conditions, and predicts the full spatiotemporal evolution of the system.
-
 Below is a comparison between the ground truth dynamics and the FNO prediction, starting from the same initial condition.
 
 <table>
