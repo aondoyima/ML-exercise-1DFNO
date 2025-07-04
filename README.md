@@ -9,13 +9,13 @@ The model takes in physical parameters and initial conditions, and predicts the 
 
 Below is a comparison between the ground truth dynamics and the FNO prediction.
 
-<p align="center">
-  <figure style="display: inline-block; margin-right: 20px; text-align: center;">
-    <figcaption><b>Predicted</b></figcaption>
-    <img src="example_figs/kym_pred_0.08.png" width="300"/>
-  </figure>
-  <figure style="display: inline-block; text-align: center;">
-    <figcaption><b>Ground Truth</b></figcaption>
-    <img src="example_figs/kym_true_0.08.png" width="300"/>
-  </figure>
-</p>
+<table>
+  <tr>
+    <th>Predicted</th>
+    <th>Ground Truth</th>
+  </tr>
+  <tr>
+    <td><img src="exmaple_figs/kym_pred.png" width="400"/></td>
+    <td><img src="exmaple_figs/kym_true.png" width="400"/></td>
+  </tr>
+</table>
