@@ -11,11 +11,11 @@ Below is a comparison between the ground truth dynamics and the FNO prediction.
 
 <p align="center">
   <figure style="display: inline-block; margin-right: 20px; text-align: center;">
-    <img src="example_figs/kym_pred_0.08.png" width="400"/>
     <figcaption><b>Predicted</b></figcaption>
+    <img src="example_figs/kym_pred_0.08.png" width="300"/>
   </figure>
   <figure style="display: inline-block; text-align: center;">
-    <img src="example_figs/kym_true_0.08.png" width="400"/>
     <figcaption><b>Ground Truth</b></figcaption>
+    <img src="example_figs/kym_true_0.08.png" width="300"/>
   </figure>
 </p>
